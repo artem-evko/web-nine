@@ -5,7 +5,10 @@ function App() {
   return (
     <div className="App">
       <div>xyi</div>
-      <div>pdkjhgfdszfhfgdrsdfghf</div>
+      <div>ARTEMOCHKA I LOVE YOU</div>
+      <div>ARTEMOCHKA I LOVE YOU</div>
+      <div>ARTEMOCHKA I LOVE YOU</div>
+      <div>ARTEMOCHKA I LOVE YOU</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
