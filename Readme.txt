@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Project of Kirill Artem and Misha
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Nine-lesson
